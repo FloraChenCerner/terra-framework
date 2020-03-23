@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///packages/terra-menu/lib/terra-dev-site/test/menu/menu-item/MenuItemCommon.module.scss"],"names":[],"mappings":"AAAA,+CAEI,WAAY,CACZ,WAAY","file":"427-1ef1ed327f9078e9d9d7.css","sourcesContent":[":local {\n  .unordered-list {\n    height: 34px;\n    width: 240px;\n  }\n}\n"]}
